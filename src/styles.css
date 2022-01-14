@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+.form-group{
+    margin-bottom: 10px;
+}
+
+.has-error{
+    color: red;
+}
+.has-error input{
+    border: 1px solid red;
+}
+
+.validation-span{
+    font-size: 12px;
+}
