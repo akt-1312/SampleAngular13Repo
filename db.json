@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mark",
+      "contactPreference": "email",
+      "email": "test@pragimtech.com",
+      "phone": "",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": 3,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Angular",
+          "experienceInYears": 1,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Java",
+          "experienceInYears": "3",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "John",
+      "contactPreference": "phone",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": "5",
+          "proficiency": "advance"
+        },
+        {
+          "skillName": "Angular",
+          "experienceInYears": 5,
+          "proficiency": "intermediate"
+        }
+      ],
+      "phone": "877689894"
+    },
+    {
+      "id": 3,
+      "fullName": "ss",
+      "contactPreference": "email",
+      "email": "test@pragimtech.com",
+      "phone": "",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": "5",
+          "proficiency": "intermediate"
+        }
+      ]
+    }
+  ]
+}
